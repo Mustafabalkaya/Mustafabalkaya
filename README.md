@@ -1,4 +1,4 @@
-[![MasterHead](https://i.hizliresim.com/6xl4il1.jpg)
+[![MasterHead](https://i.hizliresim.com/b6hzh3x.jpg)
 
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">I am a computer engineer who graduated from Tokat Gaziosmanpaşa University. I am progressing towards a Full Stack .Net Developer by developing projects with Front-End and Back-End sections. In the Front-End section, Html, Css(Sass), Bootstrap, Js; I developed projects with Asp.Net Core MVC (Entity Framework) technologies in the Back-End section and MsSql technologies in the Database section.</h3>
