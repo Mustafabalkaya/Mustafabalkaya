@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Serkan</h1>
-<h3 align="center">computer engineering</h3>
+<h1 align="center">Hi 👋, I'm Mustafa</h1>
+<h3 align="center">Computer Engineering</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/serkanbahtiyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serkanbahtiyar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mustafabalkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serkanbahtiyar" height="30" width="40" /></a>
   <br> <br>
-<a href="http://serkan.somee.com/serkan/index.html" style="transition: font-size 0.2s; text-decoration: none;" onmouseover="this.style.fontSize='1.2em'" onmouseout="this.style.fontSize='1em'">Serkan Bahtiyar</a>
+<a href="http://www.mustafabalkaya.com.tr" style="transition: font-size 0.2s; text-decoration: none;" onmouseover="this.style.fontSize='1.2em'" onmouseout="this.style.fontSize='1em'">Mustafa Balkaya</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
