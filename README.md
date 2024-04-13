@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif)](https://github.com/Mustafabalkaya)
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">Computer Engineering</h3>
+<h3 align="center">Computer Engineer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
