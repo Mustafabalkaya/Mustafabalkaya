@@ -6,7 +6,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/mustafabalkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafabalkaya" height="30" width="40" /></a>
   <br> <br>
-<a href="https://mustafabalkaya.com.tr" style="transition: font-size 0.2s; text-decoration: none;" onmouseover="this.style.fontSize='1.2em'" onmouseout="this.style.fontSize='1em'">Mustafa Balkaya</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
